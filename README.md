@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Right now, I'm diving into building mobile apps with Flutter. I’m passionate about making user experiences smooth and efficient, and I use modern patterns like MVVM to keep things organized and maintainable. My goal is to create solutions that not only work well but also genuinely address real-world needs.<br><br>🌱 **I’m currently learning:**  <br> Flutter , Expolring Backend with node  <br><br>💬 **Ask me about:**  <br>Flutter,Dart,Firebase,Javascript and any general software development questions.<br>
+🔸 I’m currently working on:Currently, I’m developing an innovative app that connects advertisers with influencers. This app allows influencers to take on promotional tasks, complete them, and earn rewards. My focus is on delivering an efficient and user-friendly experience while integrating the latest technologies.
+
+🔸 I’m currently learning:I am diving deep into backend development using Node.js and exploring the complete MERN stack. My goal is to gain expertise in building scalable full-stack applications.
+
+🔸 Ask me about:Flutter, Dart, Firebase, JavaScript, Node.js, and any general software development questions.
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/Dev_Yadnesh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yadnesh-narawade) 
