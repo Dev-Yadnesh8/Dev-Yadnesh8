@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔹 **Currently Building:**  
-Crafting impactful digital solutions — including the backend for **[upclass.dev](https://upclass.dev)**, a modern LMS (Learning Management System) built for solo educators and content creators. The goal? Empower teaching through tech with a clean, scalable backend using **Node.js**, **Express**, and **MongoDB**.
+Crafting impactful digital solutions — including the backend for **[upclass.dev]()**, a modern LMS (Learning Management System) built for solo educators and content creators. The goal? Empower teaching through tech with a clean, scalable backend using **Node.js**, **Express**, and **MongoDB**.
 
 🔹 **What I’m Learning:**  
 I’m currently deep-diving into the **MERN stack** — mastering everything from REST APIs to dynamic frontends with **React.js** and **MongoDB**. My focus is on building real-world, production-ready full-stack apps.
@@ -12,7 +12,6 @@ I’m currently deep-diving into the **MERN stack** — mastering everything fro
 ---
 
 ## 🌐 Connect With Me:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/Dev_Yadnesh) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yadnesh-narawade)
 
 ---
