@@ -1,12 +1,12 @@
 # 💫 About Me:
 🔹 **Currently Building:**  
-Crafting impactful digital solutions — including the backend for **[upclass.dev]()**, a modern LMS (Learning Management System) built for solo educators and content creators. The goal? Empower teaching through tech with a clean, scalable backend using **Node.js**, **Express**, and **MongoDB**.
+Working on a hobby **arbitrage app** while continuing to strengthen fundamentals in **DSA** and system design. Recently completed **[upclass.dev]()**, a modern LMS built using **Node.js**, **Express**, and **MongoDB**.
 
 🔹 **What I’m Learning:**  
-I’m currently deep-diving into the **MERN stack** — mastering everything from REST APIs to dynamic frontends with **React.js** and **MongoDB**. My focus is on building real-world, production-ready full-stack apps.
+I’ve wrapped up my MERN stack learning journey and now diving into **Data Structures & Algorithms (DSA)** with JavaScript, alongside practical project development and core CS topics like **Operating Systems** and **Computer Networks**.
 
 🔹 **Ask Me About:**  
-**MERN Stack**, **React.js**, **Node.js**, **MongoDB**, **Express**, REST APIs, JWT auth, and full-stack architecture.  
+**MERN Stack**, **React.js**, **Node.js**, **MongoDB**, **Express**, **JWT Auth**, **WebSockets**, full-stack architecture, and scalable backend systems.  
 (Past experience in **Flutter**, **Dart**, and **Firebase**)
 
 ---
@@ -29,6 +29,7 @@ I’m currently deep-diving into the **MERN stack** — mastering everything fro
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![WebSockets](https://img.shields.io/badge/WebSockets-%23007ACC.svg?style=for-the-badge&logo=websocket&logoColor=white)
 
 ---
 
@@ -49,8 +50,6 @@ I’m currently deep-diving into the **MERN stack** — mastering everything fro
 ### 📱 Cross Platform
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
-
-
 ---
 
 ## 📈 GitHub Stats:
@@ -63,8 +62,10 @@ I’m currently deep-diving into the **MERN stack** — mastering everything fro
 ## 🚀 Current Goals:
 - ✅ Finish MERN stack learning journey with strong React frontend  
 - ⚙️ Build & launch production-ready full-stack projects (like `upclass.dev`)  
-- 🛠️ Learn deployment, CI/CD workflows, and AWS basics  
-- 🔍 Explore advanced topics: WebSockets, TypeScript, SSR/CSSR, and Prisma ORM
+- 📚 Practice DSA in JavaScript with daily problems  
+- 🛠️ Build an arbitrage app with real-world features  
+- 🔍 Learn deployment, CI/CD workflows, and AWS basics  
+- 📡 Explore advanced topics: WebSockets, TypeScript, Prisma ORM, SSR/CSSR
 
 ---
 
