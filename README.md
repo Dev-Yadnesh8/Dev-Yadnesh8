@@ -60,12 +60,15 @@ I’ve wrapped up my MERN stack learning journey and now diving into **Data Stru
 ---
 
 ## 🚀 Current Goals:
-- ✅ Finish MERN stack learning journey with strong React frontend  
-- ⚙️ Build & launch production-ready full-stack projects (like `upclass.dev`)  
-- 📚 Practice DSA in JavaScript with daily problems  
-- 🛠️ Build an arbitrage app with real-world features  
-- 🔍 Learn deployment, CI/CD workflows, and AWS basics  
-- 📡 Explore advanced topics: WebSockets, TypeScript, Prisma ORM, SSR/CSSR
+- ✅ Completed `upclass.dev` – a full-featured LMS built with Node.js, Express & MongoDB  
+- ✅ Learned WebSockets & implemented real-time collaboration in projects  
+- 📚 Practicing DSA in JavaScript daily
+- 🧠 Strengthening CS fundamentals — currently studying Operating Systems  
+- 🛠️ Building a real-world arbitrage app with backend + WebSocket sync  
+- 🧪 Up next: Learn Prisma ORM, PostgreSQL, and advanced database design  
+- 🌐 Explore SSR/CSSR, TypeScript best practices, and scalable full-stack architecture  
+- 💼 Prepare portfolio and apply for high-learning internships by late 2025
+
 
 ---
 
