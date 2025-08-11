@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔹 **Currently Building:**  
-Working on a hobby **arbitrage app** while continuing to strengthen fundamentals in **DSA** and system design. Recently completed **[upclass.dev]()**, a modern LMS built using **Node.js**, **Express**, and **MongoDB**.
+Working on a hobby **arbitrage app** while continuing to strengthen fundamentals in **DSA** and **core cs subjects**. Recently completed **[upclass.dev]()**, a modern LMS built using **React.js**,**Node.js**, **Express**, and **MongoDB**.
 
 🔹 **What I’m Learning:**  
 I’ve wrapped up my MERN stack learning journey and now diving into **Data Structures & Algorithms (DSA)** with JavaScript, alongside practical project development and core CS topics like **Operating Systems** and **Computer Networks**.
