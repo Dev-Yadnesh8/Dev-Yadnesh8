@@ -1,15 +1,25 @@
 # 💫 About Me:
-🔹 **Currently Building:**  
-Working on a hobby **arbitrage app** while continuing to strengthen fundamentals in **DSA** and **core cs subjects**. Recently completed **[upclass.dev]()**, a modern LMS built using **React.js**,**Node.js**, **Express**, and **MongoDB**.
 
-🔹 **What I’m Learning:**  
-I’ve wrapped up my MERN stack learning journey and now diving into **Data Structures & Algorithms (DSA)** with JavaScript, alongside practical project development and core CS topics like **Operating Systems** and **Computer Networks**.
+🔹 **Currently Building:**  
+A **full-stack influencer marketing platform** that connects advertisers with influencers for seamless campaign management and payouts.  
+
+🔹 **What I’ve Built:**  
+- **Crypto Arbitrage App** – profits signals on trading opportunities across exchanges  
+- **Upclass.dev** – a modern LMS built with **React.js, Node.js, Express, MongoDB**  
+
+🔹 **Learning Journey:**  
+- Completed **MERN stack** development  
+- Currently exploring **Next.js** for production-ready full-stack apps  
+- Strengthening **core CS subjects** such as **Operating Systems** and **Computer Networks**  
 
 🔹 **Ask Me About:**  
-**MERN Stack**, **React.js**, **Node.js**, **MongoDB**, **Express**, **JWT Auth**, **WebSockets**, full-stack architecture, and scalable backend systems.  
-(Past experience in **Flutter**, **Dart**, and **Firebase**)
+- **MERN / Next.js Stack** (React.js, Node.js, Express, MongoDB)  
+- **Scalable Backends** (JWT Auth, REST APIs, WebSockets)  
+- **Real-time & event-driven apps**  
+- Past experience in **Flutter**, **Dart**, and **Firebase**  
 
 ---
+
 
 ## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yadnesh-narawade)
@@ -53,9 +63,9 @@ I’ve wrapped up my MERN stack learning journey and now diving into **Data Stru
 ---
 
 ## 📈 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dev-Yadnesh8&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Dev-Yadnesh8&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Yadnesh8&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ynarawade&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ynarawade&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ynarawade&theme=dark&hide_border=false&layout=compact)
 
 ---
 
